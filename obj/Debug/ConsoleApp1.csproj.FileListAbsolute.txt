@@ -1,0 +1,10 @@
+G:\Hamideh\Project\FileName\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Hamideh\Project\FileName\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\Hamideh\Project\FileName\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\Hamideh\Project\FileName\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\Hamideh\Project\FileName\ConsoleApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+G:\Hamideh\Project\FileName\ConsoleApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+G:\Hamideh\Project\FileName\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\Hamideh\Project\FileName\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+G:\Hamideh\Project\FileName\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\Hamideh\Project\FileName\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
